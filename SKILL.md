@@ -1,5 +1,6 @@
 ---
 name: ooux
+license: MIT
 description: >
   An AI-powered OOUX facilitator that guides teams and individuals through Sophia Prater's ORCA process (Objects, Relationships, CTAs, Attributes) step by step. Use this skill whenever someone mentions OOUX, object-oriented UX, ORCA process, object mapping, noun foraging, nested object matrix, CTA matrix, or wants help structuring a digital product around objects. Also trigger when someone wants to break down a complex product into core entities, define system relationships, map user actions to roles, audit an existing product's object model, or create information architecture from research/requirements. Works for greenfield products, redesigns, and audits. This skill actively facilitates — it asks questions, produces artifacts, and coaches users through each ORCA round rather than just explaining the methodology.
 ---
